@@ -1,1 +1,1 @@
-print('hello world by takahashi')
+print('hello world by Rin_takahashi')
