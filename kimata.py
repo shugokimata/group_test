@@ -1,1 +1,1 @@
-print('hello branch by kimata')
+print('hello branch by kimata これはキマタブランチで作成した分です')
